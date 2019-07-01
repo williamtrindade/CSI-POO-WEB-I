@@ -1,0 +1,5 @@
+dao\UsuarioDAO.class
+controller\LoginController.class
+dao\ConectaDB.class
+model\Usuario.class
+controller\UsuarioController.class
