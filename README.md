@@ -1,6 +1,3 @@
-# Sistema-de-Vendas-e-Controle-de-Estoque
-Projeto da disciplina de POO para Web I
-
 Artigo sobre Crow’s Foot Notation no site da University of Regina  
 http://www2.cs.uregina.ca/~bernatja/crowsfoot.html
 
